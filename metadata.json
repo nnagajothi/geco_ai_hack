@@ -1,0 +1,5 @@
+{
+  "name": "Smart Support - AI Ticket Management",
+  "description": "A demo application showcasing an AI-powered ticket management system. It features an end-to-end flow from customer ticket submission, through AI analysis and prioritization, to a real-time business intelligence dashboard.",
+  "requestFramePermissions": []
+}
